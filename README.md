@@ -2,8 +2,8 @@
 
 ## Jogo educativo para pessoas com deficiência intelectual
 
-Jogo feito durante a matéria de Engenharia de Software, nele passamos por todas as etapas que há em desenvolver um software, 
-desde levantamento de requisitos até o teste do usuário final, o usuário foram os próprios alunos de uma escola que possuem deficiência intelectual.
+Jogo feito durante a disciplina de Engenharia de Software, nele passamos por todas as etapas que há em desenvolver um software, 
+desde levantamento de requisitos até o teste do usuário final, o usuário final foram os próprios alunos de uma escola que possuem deficiência intelectual.
 <br><br>
 Menu Iniciar:
 <br><br>
